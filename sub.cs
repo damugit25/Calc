@@ -1,1 +1,4 @@
-#This_is_a_fist_liny
+ public sub(int a, int b)
+ {
+ -int c = a - b;
+ }
